@@ -12,13 +12,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Data science
 
+WORKING ON DATA SCIENCE PROJECT
 
 
-## Header 2
+## FRAUD DETECTION PROJECT
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+WILL BE WORKING ON IT 
 
 ### Header 3
 
